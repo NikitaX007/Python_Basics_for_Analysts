@@ -1,1 +1,1 @@
-# Python_Basics_for_Analysts
+# Основы Python для аналитиков
